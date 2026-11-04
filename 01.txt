@@ -1,1 +1,2 @@
+#!cows.txt
 Instructions go here
